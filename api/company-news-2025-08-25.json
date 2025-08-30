@@ -8,12 +8,6 @@
       "has_content": true
     },
     {
-      "name": "ASIANPAINT LTD",
-      "text": "No content found for ASIANPAINT Ltd on current page.",
-      "links_raw": "No links found for ASIANPAINT Ltd",
-      "has_content": true
-    },
-    {
       "name": "AXISBANK LTD",
       "text": "On August 25, 2025, Axis Bank Managing Director and CEO Amitabh Chaudhry stated that banks are not compensated for their Unified Payment Interface (UPI) infrastructure, which has reduced bank income . Speaking at the FIBAC 2025 conference, he added that while a subsidy had previously been provided, it was reduced, and overall income growth has been subdued because charges have been kept at a minimum by regulators.\n\nThis was the most substantial corporate development reported for Axis Bank on that date. Other search results from August 25, 2025, primarily discuss routine market commentary, share price movements, and trading activity, which fall outside the scope of significant corporate developments.",
       "links_raw": "1. https://www.moneycontrol.com/news/business/banks/banks-don-t-get-paid-a-penny-for-providing-all-the-pipes-for-upi-says-axis-bank-s-amitabh-chaudhry-13487063.html#:~:text=Axis%20Bank's%20managing%20director%20and,of%20running%20the%20payment%20system.\n2. https://www.moneycontrol.com/news/business/banks/banks-don-t-get-paid-a-penny-for-providing-all-the-pipes-for-upi-says-axis-bank-s-amitabh-chaudhry-13487063.html#:~:text=Axis%20Bank's%20managing%20director%20and,probe%20in%20Embassy%20REIT%20matter\n3. https://www.angelone.in/live-blog/axis-bank-ltd-25-aug-2025-532215#:~:text=In%20a%20Strong%20Move%2C%20Axis,%25%2C%20signalling%20a%20challenging%20period.\n4. https://m.economictimes.com/markets/stocks/stock-liveblog/axis-bank-share-price-today-live-25-aug-2025/liveblog/123492749.cms#:~:text=Axis%20Bank's%20current%20price%20is,a%20daily%20change%20of%200.09%25.\n5. https://www.moneycontrol.com/news/business/banks/banks-don-t-get-paid-a-penny-for-providing-all-the-pipes-for-upi-says-axis-bank-s-amitabh-chaudhry-13487063.html#:~:text=UPI%20(%20Unified%20Payment%20Interface%20)%20Axis,UPI%20(%20Unified%20Payment%20Interface%20)%20.",
@@ -47,12 +41,6 @@
       "name": "BHARTIARTL LTD",
       "text": "On August 25, 2025, Nxtra Data Limited, a subsidiary of Bharti Airtel, released its Sustainability Report for FY 2024-25 . This announcement was made by Bharti Airtel under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.",
       "links_raw": "1. https://economictimes.indiatimes.com/bharti-airtel-ltd/stocksupdate/companyid-2718.cms#:~:text=Market%20Watch,name:%20Ignore%20noise%20&%20Trump.\n2. https://trendlyne.com/latest-news/BSE-Announcements/187/BHARTIARTL/bharti-airtel-ltd/#:~:text=Company%20Update-,Bharti%20Airtel%20Ltd%20%2D%20532454%20%2D%20Announcement%20under%20Regulation%2030%20(LODR,)%2DPress%20Release%20/%20Media%20Release&text=We%20are%20enclosing%20herewith%20a,a%20subsidiary%20of%20the%20Company.&text=Bharti%20Airtel%20Ltd.,-24%20Aug%202025\n3. https://www.business-standard.com/markets/bharti-airtel-ltd-share-price-15542/announcements/bse-exchange-48665862#:~:text=Announcement%20under%20Regulation%2030%20(LODR,LODR)%2DEarnings%20Call%20Transcript",
-      "has_content": true
-    },
-    {
-      "name": "CIPLA LTD",
-      "text": "No content found for CIPLA Ltd on current page.",
-      "links_raw": "No links found for CIPLA Ltd",
       "has_content": true
     },
     {
@@ -214,6 +202,18 @@
       "has_content": true
     },
     {
+      "name": "ASIANPAINT LTD",
+      "text": "No content found for ASIANPAINT Ltd on current page.",
+      "links_raw": "No links found for ASIANPAINT Ltd",
+      "has_content": true
+    },
+    {
+      "name": "CIPLA LTD",
+      "text": "No content found for CIPLA Ltd on current page.",
+      "links_raw": "No links found for CIPLA Ltd",
+      "has_content": true
+    },
+    {
       "name": "DRREDDY LTD",
       "text": "No significant corporate developments for DRREDDY Ltd on 25.08.2025.",
       "links_raw": "No links found for DRREDDY Ltd",
@@ -305,6 +305,6 @@
     }
   ],
   "total_companies": 50,
-  "news_count": 33,
-  "no_news_count": 17
+  "news_count": 31,
+  "no_news_count": 19
 }
