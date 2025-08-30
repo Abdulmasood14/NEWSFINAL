@@ -1,5 +1,10 @@
 [
   {
+    "date": "2025-08-25",
+    "display_date": "Monday, August 25, 2025",
+    "filename": "25.08.2025.csv"
+  },
+  {
     "date": "2025-08-24",
     "display_date": "Sunday, August 24, 2025",
     "filename": "24.08.2025.csv"

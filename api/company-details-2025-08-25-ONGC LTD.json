@@ -1,0 +1,13 @@
+{
+  "company_name": "ONGC LTD",
+  "extracted_text": "On August 25, 2025, ONGC Ltd. announced the commencement of natural gas sales from its Chinnewala Tibba field in the Rajasthan Kutch Onland Exploratory Asset (RKOEA) .\n\nMonetization of Chinnewala Tibba field:ONGC officially began gas sales from the Discovered Small Field (DSF-II) block RJ/ONDSF/Chinnewala/2018. This marks the successful monetization of the field's natural gas reserves.\n\nIncrease in domestic energy production:The project reinforces ONGC's commitment to enhancing India's energy security by boosting domestic energy production.\n\nDaily gas supply:The company has initiated sales of 100,000 standard cubic meters of gas per day (LSCMD), which will help meet the regional energy demands.\n\nGas supply recipient:The extracted gas is being supplied to Rajasthan Rajya Vidyut Utpadan Nigam Limited (RRVUNL) via ONGC's Gamnewala Gas Collection Station (GCS).",
+  "links_raw": "1. https://www.newindianexpress.com/business/2025/Aug/25/ongc-begins-natural-gas-sales-from-chinnewala-tibba-field#:~:text=Located%20in%20Western%20Rajasthan%2C%20near,to%20the%20local%20supply%20chain.\n2. https://energy.economictimes.indiatimes.com/news/oil-and-gas/ongc-begins-gas-monetisation-from-chinnewala-tibba-field-in-rajasthan/123507082#:~:text=Oil%20and%20Natural%20Gas%20Corporation,Gas%20Collection%20Station%20(GCS).\n3. https://www.aninews.in/news/business/ongc-begins-gas-monetisation-from-chinnewala-tibba-field-in-rajasthan20250825201939/#:~:text=New%20Delhi%20%5BIndia%5D%2C%20August,power%20grid%2C%22%20ONGC%20said.\n4. https://www.indianchemicalnews.com/gas/ongc-commences-monetisation-of-chinnewala-tibba-gas-in-rkoea-27245#:~:text=Oil%20and%20Natural%20Gas%20Corporation,into%20the%20regional%20power%20grid.",
+  "processed_links": [
+    "https://1. https://www.newindianexpress.com/business/2025/Aug/25/ongc-begins-natural-gas-sales-from-chinnewala-tibba-field#:~:text=Located%20in%20Western%20Rajasthan%2C%20near",
+    "https://to%20the%20local%20supply%20chain.\n2. https://energy.economictimes.indiatimes.com/news/oil-and-gas/ongc-begins-gas-monetisation-from-chinnewala-tibba-field-in-rajasthan/123507082#:~:text=Oil%20and%20Natural%20Gas%20Corporation",
+    "https://Gas%20Collection%20Station%20(GCS).\n3. https://www.aninews.in/news/business/ongc-begins-gas-monetisation-from-chinnewala-tibba-field-in-rajasthan20250825201939/#:~:text=New%20Delhi%20%5BIndia%5D%2C%20August",
+    "https://power%20grid%2C%22%20ONGC%20said.\n4. https://www.indianchemicalnews.com/gas/ongc-commences-monetisation-of-chinnewala-tibba-gas-in-rkoea-27245#:~:text=Oil%20and%20Natural%20Gas%20Corporation",
+    "https://into%20the%20regional%20power%20grid."
+  ],
+  "date": "2025-08-25"
+}

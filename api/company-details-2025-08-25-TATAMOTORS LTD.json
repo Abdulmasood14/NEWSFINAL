@@ -1,0 +1,10 @@
+{
+  "company_name": "TATAMOTORS LTD",
+  "extracted_text": "On August 25, 2025, the National Company Law Tribunal (NCLT) approved a major restructuring plan for Tata Motors .\n\nKey details of the NCLT-sanctioned plan :\n\nDemerger: The commercial vehicle (CV) business of Tata Motors will be demerged into a separate entity, TML Commercial Vehicles Limited (TMLCV).\n\nAmalgamation: The passenger vehicle (PV) business will be merged with Tata Motors Passenger Vehicles Limited (TMPV).\n\nPurpose: The restructuring aims to create a more streamlined corporate structure to improve operational efficiency and long-term growth for each distinct business segment.",
+  "links_raw": "1. https://m.economictimes.com/markets/stocks/news/tata-motors-shares-in-focus-after-nclt-clears-restructuring-scheme-for-2-subsidiaries/articleshow/123516787.cms#:~:text=%E2%80%9CWe%20wish%20to%20inform%20you,and%20the%20Rules%20framed%20thereunder.%E2%80%9D",
+  "processed_links": [
+    "https://1. https://m.economictimes.com/markets/stocks/news/tata-motors-shares-in-focus-after-nclt-clears-restructuring-scheme-for-2-subsidiaries/articleshow/123516787.cms#:~:text=%E2%80%9CWe%20wish%20to%20inform%20you",
+    "https://and%20the%20Rules%20framed%20thereunder.%E2%80%9D"
+  ],
+  "date": "2025-08-25"
+}

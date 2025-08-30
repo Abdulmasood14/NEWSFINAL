@@ -1,0 +1,11 @@
+{
+  "company_name": "JSWSTEEL LTD",
+  "extracted_text": "On August 25, 2025, JSW Steel announced a significant corporate development with the incorporation of a new joint venture company, APJSW Private Limited . This venture is in partnership with Andhra Pradesh Mineral Development Corporation Limited (APMDC) and is aimed at enhancing the company's raw material security.\n\nThe joint venture's purpose is to establish the Konijedu Marlapadu Integrated Iron Ore Project in Andhra Pradesh. This project is designed to mine and beneficiate low-grade iron ore. JSW Steel holds an 89% equity stake in the venture, with APMDC holding 11%. The project has an estimated investment of $120 million (₹1,075 crore) and is projected to produce 1.3 million tonnes of beneficiated iron ore concentrate annually. This initiative is expected to allow JSW Steel to utilize a domestic source for iron ore, potentially reducing costs and improving the security of its raw material supply chain.",
+  "links_raw": "1. https://news.metal.com/newscontent/103500634#:~:text=India%20Corporate%2C%20JSW%20Steel%20has,service.en@smm.cn\n2. https://www.constructionworld.in/steel-news/jsw--apmdc-form-rs-1.08-billion-iron-ore-jv-in-andhra/78120#:~:text=JSW%20Steel%20has%20incorporated%20a,Transaction%20under%20current%20regulatory%20guidelines.\n3. https://www.moneycontrol.com/news/business/markets/jsw-steel-incorporates-apjsw-private-limited-for-iron-ore-project-alpha-article-13490466.html#:~:text=Volume,Name%20of%20the%20target%20entity",
+  "processed_links": [
+    "https://1. https://news.metal.com/newscontent/103500634#:~:text=India%20Corporate%2C%20JSW%20Steel%20has",
+    "https://service.en@smm.cn\n2. https://www.constructionworld.in/steel-news/jsw--apmdc-form-rs-1.08-billion-iron-ore-jv-in-andhra/78120#:~:text=JSW%20Steel%20has%20incorporated%20a",
+    "https://Transaction%20under%20current%20regulatory%20guidelines.\n3. https://www.moneycontrol.com/news/business/markets/jsw-steel-incorporates-apjsw-private-limited-for-iron-ore-project-alpha-article-13490466.html#:~:text=Volume"
+  ],
+  "date": "2025-08-25"
+}
