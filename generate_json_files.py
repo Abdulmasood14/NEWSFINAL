@@ -129,7 +129,7 @@ def generate_company_json_files(csv_folder='scrapped_output', api_folder='api'):
                 
                 # Use the same categorization logic as the Flask app
                 text_str = extracted_text.lower()
-                if "no significant news" in text_str or "no news" in text_str or "no significant corporate developments" in text_str or "no content found" in text_str:
+                if "no significant news" in text_str or "no news" in text_str or "no significant corporate developments" in text_str or "no content" in text_str:
                     news_category = "no_news"
                 else:
                     news_category = "has_news"
