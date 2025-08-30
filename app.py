@@ -74,7 +74,7 @@ def categorize_company_news(extracted_text):
     text_str = str(extracted_text).strip().lower()
     
     # Simple rule: Only check for these specific phrases
-    if "no significant news" in text_str or "no news" in text_str or "no significant corporate developments" in text_str:
+    if "no significant news" in text_str or "no news" in text_str or "no significant corporate developments" in text_str or "no content found" in text_str:
         return "no_news"
     
     # Everything else is considered news
