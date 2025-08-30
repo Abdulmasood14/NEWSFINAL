@@ -490,6 +490,24 @@
             backdrop-filter: blur(10px);
         }
 
+        .no-news-content {
+            background: linear-gradient(135deg, rgba(248, 113, 113, 0.05) 0%, rgba(239, 68, 68, 0.05) 100%);
+            border: 1px solid rgba(248, 113, 113, 0.2);
+            border-radius: 12px;
+            padding: 20px;
+        }
+
+        .no-news-content ul {
+            margin: 0;
+            padding-left: 20px;
+            color: #fca5a5;
+        }
+
+        .no-news-content li {
+            margin-bottom: 8px;
+            line-height: 1.6;
+        }
+
         .news-links {
             margin-top: 24px;
             padding-top: 24px;
@@ -903,12 +921,15 @@
                     if (details.extracted_text && details.extracted_text.trim()) {
                         const isNoNews = this.isNoSignificantNews(details.extracted_text);
                         
+                        // Apply bullet point formatting to all content (both news and no-news)
+                        const bulletPoints = this.convertToBulletPoints(details.extracted_text);
+                        
                         if (isNoNews) {
-                            // For "no news" messages, also format as bullet points if content is structured
-                            const bulletPoints = this.convertToBulletPoints(details.extracted_text);
-                            newsContent.innerHTML = `<div class="no-news-message">${bulletPoints}</div>`;
+                            // Add no-news styling class to the container, not around the bullet points
+                            newsContent.className = 'news-content no-news-content';
+                            newsContent.innerHTML = bulletPoints;
                         } else {
-                            const bulletPoints = this.convertToBulletPoints(details.extracted_text);
+                            newsContent.className = 'news-content';
                             newsContent.innerHTML = bulletPoints;
                         }
                     } else {
