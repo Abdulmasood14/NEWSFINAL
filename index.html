@@ -956,17 +956,32 @@
             convertToBulletPoints(text) {
                 if (!text || typeof text !== 'string') return '';
                 
-                const sentences = text.split(/[.!?]+/).filter(sentence => sentence.trim().length > 0);
+                // First, try to split by natural paragraph breaks
+                let sections = text.split(/\n\n|\r\n\r\n/).filter(section => section.trim().length > 0);
                 
-                if (sentences.length === 1) {
-                    return `<ul><li>${sentences[0].trim()}</li></ul>`;
+                // If no paragraph breaks, try to split by date patterns or key phrases
+                if (sections.length === 1) {
+                    // Split by date patterns (August 21, 2025:, etc.)
+                    sections = text.split(/(?=\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}:)/);
                 }
                 
-                const bulletPoints = sentences.map(sentence => 
-                    `<li>${sentence.trim()}</li>`
-                ).join('');
+                // If still one section, split by sentences but keep longer ones together
+                if (sections.length === 1) {
+                    sections = text.split(/(?<=[.!?])\s+(?=[A-Z])/).filter(section => section.trim().length > 0);
+                }
                 
-                return `<ul>${bulletPoints}</ul>`;
+                // Clean up sections and create bullet points
+                const bulletPoints = sections.map(section => {
+                    const cleanSection = section.trim();
+                    if (cleanSection.length === 0) return '';
+                    return `<li>${cleanSection}</li>`;
+                }).filter(point => point.length > 0);
+                
+                if (bulletPoints.length === 0) {
+                    return `<ul><li>${text.trim()}</li></ul>`;
+                }
+                
+                return `<ul>${bulletPoints.join('')}</ul>`;
             }
 
             extractUrls(text) {
