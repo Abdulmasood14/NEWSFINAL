@@ -904,7 +904,8 @@
                         const isNoNews = this.isNoSignificantNews(details.extracted_text);
                         
                         if (isNoNews) {
-                            newsContent.innerHTML = '<div class="no-news-message">No significant news updates for this company on the selected date.</div>';
+                            // For "no news" messages, show as simple text
+                            newsContent.innerHTML = `<div class="no-news-message">${details.extracted_text}</div>`;
                         } else {
                             const bulletPoints = this.convertToBulletPoints(details.extracted_text);
                             newsContent.innerHTML = bulletPoints;
@@ -978,12 +979,7 @@
                 const noNewsPatterns = [
                     'no significant news',
                     'no news',
-                    'no updates',
-                    'no recent news',
-                    'no major news',
-                    'nothing significant',
-                    'no developments',
-                    'no announcements'
+                    'no significant corporate developments'
                 ];
                 
                 const lowerText = text.toLowerCase();
