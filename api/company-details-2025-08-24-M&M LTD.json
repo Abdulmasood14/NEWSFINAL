@@ -1,0 +1,12 @@
+{
+  "company_name": "M&M LTD",
+  "extracted_text": "On August 24, 2025, Mahindra & Mahindra announced plans to scout for land to set up a greenfield manufacturing plant . This expansion is intended to increase production capacity for both domestic and export markets.\n\nAdditional details from the announcement:\n\nThe new plant is in addition to the company's existing capacity expansion plans for its Chakan facility.\n\nThe announcement highlighted the unveiling of the new modular, multi-energy \"NU IQ\" platform, which will support a new range of SUVs, with the first rollout expected in 2027.\n\nThe multi-energy platform was engineered to address market gaps in both India and globally.",
+  "links_raw": "1. https://manufacturing.economictimes.indiatimes.com/news/automotive/mahindra-scouts-for-land-parcel-for-new-plant-looks-to-bolster-service-network/123483123#:~:text=%E2%9C%95-,Automotive,plant%20by%202.4%20lakh%20units.\n2. https://m.economictimes.com/industry/auto/auto-news/mahindra-scouts-for-land-parcel-for-new-plant-looks-to-bolster-service-network/articleshow/123480935.cms#:~:text=Mahindra%20&%20Mahindra%20is%20exploring%20land,first%20launch%20expected%20in%202027.&text=Mahindra%20&%20Mahindra%20is%20scouting%20for,additional%20capacity%2C%22%20he%20noted.",
+  "processed_links": [
+    "https://1. https://manufacturing.economictimes.indiatimes.com/news/automotive/mahindra-scouts-for-land-parcel-for-new-plant-looks-to-bolster-service-network/123483123#:~:text=%E2%9C%95-",
+    "https://plant%20by%202.4%20lakh%20units.\n2. https://m.economictimes.com/industry/auto/auto-news/mahindra-scouts-for-land-parcel-for-new-plant-looks-to-bolster-service-network/articleshow/123480935.cms#:~:text=Mahindra%20&%20Mahindra%20is%20exploring%20land",
+    "https://first%20launch%20expected%20in%202027.&text=Mahindra%20&%20Mahindra%20is%20scouting%20for",
+    "https://additional%20capacity%2C%22%20he%20noted."
+  ],
+  "date": "2025-08-24"
+}
