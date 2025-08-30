@@ -904,8 +904,9 @@
                         const isNoNews = this.isNoSignificantNews(details.extracted_text);
                         
                         if (isNoNews) {
-                            // For "no news" messages, show as simple text
-                            newsContent.innerHTML = `<div class="no-news-message">${details.extracted_text}</div>`;
+                            // For "no news" messages, also format as bullet points if content is structured
+                            const bulletPoints = this.convertToBulletPoints(details.extracted_text);
+                            newsContent.innerHTML = `<div class="no-news-message">${bulletPoints}</div>`;
                         } else {
                             const bulletPoints = this.convertToBulletPoints(details.extracted_text);
                             newsContent.innerHTML = bulletPoints;
