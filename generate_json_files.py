@@ -60,7 +60,7 @@ def process_links(links_str):
     
     return processed_links
 
-def generate_company_json_files(csv_folder='Scrapped_csv_output', api_folder='api'):
+def generate_company_json_files(csv_folder='scrapped_output', api_folder='api'):
     """Generate individual JSON files for each company from CSV data"""
     
     # Create api folder if it doesn't exist
