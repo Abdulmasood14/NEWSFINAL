@@ -12,7 +12,9 @@
       "Bash(git branch:*)",
       "Bash(git push:*)",
       "WebFetch(domain:github.com)",
-      "Bash(gh repo create:*)"
+      "Bash(gh repo create:*)",
+      "Bash(git submodule:*)",
+      "Bash(git rm:*)"
     ],
     "deny": [],
     "ask": []
