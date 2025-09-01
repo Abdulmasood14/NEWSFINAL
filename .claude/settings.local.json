@@ -14,7 +14,8 @@
       "WebFetch(domain:github.com)",
       "Bash(gh repo create:*)",
       "Bash(git submodule:*)",
-      "Bash(git rm:*)"
+      "Bash(git rm:*)",
+      "Bash(git pull:*)"
     ],
     "deny": [],
     "ask": []
